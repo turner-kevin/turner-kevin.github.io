@@ -43077,8 +43077,8 @@ else s=new Q.yv(M.bC(f,f,f,f,f,f,f,f,f,f,f),new P.T(0,0),f)
 r=g.yU(e)
 q=F.br(a,!1).a.a>=768&&F.br(a,!1).a.a<=1200||F.br(a,!1).a.a>1200?g.yU(e):M.bC(f,f,f,f,f,f,f,f,f,f,f)
 p=g.d
-o=M.bC(f,g.yT(e,"image_1.jpg",C.kq),f,f,f,f,f,f,f,f,f)
-n=M.bC(f,g.yT(e,"image_5.jpg",C.qG),f,f,f,f,f,f,f,f,f)
+o=M.bC(f,g.yT(e,"images/image_1.jpg",C.kq),f,f,f,f,f,f,f,f,f)
+n=M.bC(f,g.yT(e,"images/image_5.jpg",C.qG),f,f,f,f,f,f,f,f,f)
 m=g.y?C.kM:C.ij
 l=e.a
 k=M.bC(f,L.ew("Hi!",B.Jl(C.j,60,C.aI),f),C.ig,f,f,f,f,f,new V.aI(8,8,8,0),f,l)
@@ -43096,7 +43096,7 @@ s=a.b
 return M.bC(r,q>s?T.ZF(c,U.Ze(C.i7,new L.iS(b)),1/0,r,0,0):T.ZF(c,U.Ze(C.i7,new L.iS(b)),r,1/0,0,0),r,r,r,r,s,r,r,r,r)},
 yU:function(a){var s,r,q,p,o,n=this,m=null,l=["HOME","ABOUT","SKILLS","EDUCATION","EXPERIENCE","CONTACT"],k=C.vX.i(0,50),j=t.t,i=H.b([],j)
 i.push(new T.cE(m,50,m,m))
-i.push(new K.ve(new L.iS("avatar.jpg"),75,m))
+i.push(new K.ve(new L.iS("images/avatar.jpg"),75,m))
 i.push(new T.cE(m,40,m,m))
 i.push(L.ew("Kevin Turner",B.Jl(m,20,C.aI),m))
 i.push(new T.cE(m,10,m,m))
